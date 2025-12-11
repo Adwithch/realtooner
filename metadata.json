@@ -1,0 +1,5 @@
+{
+  "name": "OmniRead Manga",
+  "description": "A comprehensive Manga/Webtoon reader aggregator using AniList for metadata and MangaDex for content with fallback architecture.",
+  "requestFramePermissions": []
+}
